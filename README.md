@@ -5,3 +5,6 @@
 
 ### Update from the feature/2
 ### Preparing release 0.0.2
+
+### Update for feature/3
+### Preparing release 0.0.3
